@@ -1,11 +1,11 @@
-# Health Lab
+# Alzheimer’s Detection
 <!--
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)<br>
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Jeetu95/Brain-Tumor-Segmentation/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/Jeetu95/Brain-Tumor-Segmentation/issues)
 -->
-![Health Lab](./readme/first_look.gif)
+![Alzheimer’s Detection](./readme/first_look.gif)
 
 
 ## Table of Contents
@@ -22,9 +22,9 @@
 
 We propose to implement a deep-learning framework that will segment the affected part of the brain in the MRI scans along with predicting severity of the alzheimer's disease.
 
-We are going to deploy the model with simple interactive user interface - **Health Lab** on web platform.
+We are going to deploy the model with simple interactive user interface - **Alzheimer’s Detection** on web platform.
 
-Our [presentation](https://docs.google.com/presentation/d/1yVL8I-bt9WNGl4_27r4kq4FxgDIy60_ke0O30EIWrjg/edit#slide=id.gb1f8aa6de7_5_1810) and [demo_video](./demo/site_demo-2020-12-19_11.03.47.mp4)
+The [demo_video](./demo/site_demo-2020-12-19_11.03.47.mp4)
 
 ### Training
 
