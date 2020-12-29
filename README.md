@@ -37,10 +37,8 @@ The [demo_video](./demo/site_demo-2020-12-19_11.03.47.mp4)
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u-vSPhU_hwaZdwsuABK4xCRet_jEp0Tu?usp=sharing)
 
 ### Results
-
-
-
-
+Final Mean Dice  Loss - 0.74461 for segmentation
+ROC AUC score - 0.946 for classification
 ### Installation
 
 Fork this repository.
